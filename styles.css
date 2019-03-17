@@ -1,7 +1,13 @@
 .container {
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .card {
   margin-bottom: 50px;
+}
+
+.jumbotron {
+  background-image: url("food2.jpg");
+  background-size: cover;
 }
